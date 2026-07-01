@@ -2,7 +2,7 @@
 
 An interactive 4-page Power BI dashboard tracking the FIFA World Cup 2026 — live standings, match results, and upcoming fixtures, with all times converted to West Africa Time (WAT).
 
-🔗 [Live interactive dashboard](https://app.powerbi.com/links/AuKnyRLk33?ctid=b1147ebc-723a-4081-b981-f0ae8a56561e&pbi_source=linkShare)
+🔗 [Live interactive dashboard](https://app.powerbi.com/links/dzeb4Hyk6g?ctid=b1147ebc-723a-4081-b981-f0ae8a56561e&pbi_source=linkShare&bookmarkGuid=bfe86e9f-4fe9-4003-a119-fbe83ce45e07)
 
 ## Features
 - Country filter slicer affecting all data tables
